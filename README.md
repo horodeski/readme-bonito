@@ -12,7 +12,7 @@
 
 <summary>Meu GitHub Stats</summary>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=horodeski&hide_border=true&theme=vue" /> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=horodeski&theme=vue&show_icons=true" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=horodeski&hide_border=false&theme=great-gatsby" /> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=horodeski&theme=great-gatsby&show_icons=true" />
     </p>
 </details>
 
